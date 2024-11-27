@@ -143,9 +143,9 @@ class _HomePageState extends State<HomePage> {
                   },
                 ),
                 ListTile(
-                  title: Text(
+                  title: const Text(
                     'Log in',
-                    style: const TextStyle(
+                    style: TextStyle(
                       fontSize: 16,
                       fontWeight: FontWeight.normal,
                       color: Colors.black,
@@ -163,9 +163,9 @@ class _HomePageState extends State<HomePage> {
                   },
                 ),
                 ListTile(
-                  title: Text(
+                  title: const Text(
                     'Personal Information Details',
-                    style: const TextStyle(
+                    style: TextStyle(
                       fontSize: 16,
                       fontWeight: FontWeight.normal,
                       color: Colors.black,
